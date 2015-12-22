@@ -1,6 +1,6 @@
 {
   "name": "node-webkitgtk-pool",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A pool for node-webkitgtk",
   "main": "index.js",
   "scripts": {
